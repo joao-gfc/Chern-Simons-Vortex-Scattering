@@ -16,3 +16,5 @@
  1. We now believe that periodic boundary conditions would be superior to Neumann's. It is easier to be implemented and more stable.
  
  2. We haven't find an absolutely convergent time integrator for our equations of motion yet.
+ 
+ The software was developed with aid of the supercomputer SDumont from the Brazilian institution LNCC (Laboratório Nacional de Computação Científica).
